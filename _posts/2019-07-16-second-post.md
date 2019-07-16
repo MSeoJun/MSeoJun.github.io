@@ -1,0 +1,13 @@
+---
+title: "나의 하루"
+date: 2019-07-17 11:36:23 -0400
+categories: ㅎㅎ
+---
+
+### 오늘은....
+
+오늘 저는 학교에 갔습니다. 수요일이라서 학교가 빨리 끝나요. 너무 좋아용,
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

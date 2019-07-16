@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "안녕하세요."
+  name             : "어빙 블로그에 오신 것을 환영합니다."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나는 자랑스러운 사람이다."
   location         : "대한민국"
