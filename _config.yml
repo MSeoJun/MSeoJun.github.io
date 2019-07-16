@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나는 자랑스러운 사람이다."
   location         : "대한민국"
-  email            : mun1582w@naver.com
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
