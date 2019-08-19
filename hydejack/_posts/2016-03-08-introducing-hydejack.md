@@ -2,14 +2,12 @@
 layout: post
 title: Introducing Hydejack (v3)
 description: >
-  안녕하세요.
+  내가 방학동안에 한일ㅎㅎ.
 excerpt_separator: <!--more-->
 ---
 
-안녕하세요. it.
-
 ## Features
-Features include:
+안녕
 
 * Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled.
 * Github Pages compatible tag support based on [this post][tag].
