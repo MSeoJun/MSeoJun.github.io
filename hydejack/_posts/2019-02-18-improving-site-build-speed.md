@@ -1,6 +1,6 @@
 ---
 title: 방학동안에 내가 느낀점
-image:
+image: 
 description: >
   방학동안에 내가 느낀점
 ---
