@@ -2,7 +2,7 @@
 title: 방학동안에 내가 느낀점
 image:
 description: >
-  나는 방학동안에.... 
+  
 ---
 
 ## 느낀점
