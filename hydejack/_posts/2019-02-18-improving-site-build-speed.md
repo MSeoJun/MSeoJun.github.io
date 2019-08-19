@@ -1,6 +1,6 @@
 ---
 title: 방학동안에 내가 느낀점
-image: /assets/img/blog/wade-lambert.jpg
+image:
 description: >
   나는 방학동안에.... 
 ---
