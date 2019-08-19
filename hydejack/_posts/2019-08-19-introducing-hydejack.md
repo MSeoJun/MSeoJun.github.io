@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 <style>
   .img1 {
     width:100%;
-    min-height:20vh;
+    min-height:10vh;
   }
 </style>
 
